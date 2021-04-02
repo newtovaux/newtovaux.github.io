@@ -51,7 +51,7 @@ export default {
   // sitemap
   sitemap: {
     // ...
-    hostname: 'https://example.com',
+    hostname: 'https://newtovaux.github.io/',
     gzip: true
   },
 
