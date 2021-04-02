@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{articles:[{slug:"composition-api-in-vue",description:"I was inspired to switch one of my small apps to use the Composition API via the Vue v2 plugin.",title:"Composition API in Vuew",author:{name:"newtovaux"}}]}],fetch:{},mutations:void 0});
